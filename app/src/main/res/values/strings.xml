@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practical_1.2_partA</string>
+    <string name="toast_message">TEE ZHUO XUAN 19WMD00612</string>
+    <string name="btnToast">SAY HELLO</string>
+    <string name="btnCount">COUNT</string>
+    <string name="btnReset">ZERO</string>
+
+</resources>
